@@ -1,0 +1,6 @@
+Order_ID,Product,Region,Sales,Quantity,Profit,Profit_Margin,Date,Day_Name,Weekend,Month
+1,Laptop,North,50000,1,8000,0.16,01-02-2026,Sunday,TRUE,February
+2,Mouse,South,1500,2,300,0.2,02-02-2026,Monday,FALSE,February
+3,Keyboard,East,3000,1,500,0.166666667,03-02-2026,Tuesday,FALSE,February
+4,Laptop,West,52000,1,9000,0.173076923,04-02-2026,Wednesday,FALSE,February
+5,Monitor,North,12000,2,2000,0.166666667,05-02-2026,Thursday,FALSE,February
